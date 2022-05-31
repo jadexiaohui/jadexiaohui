@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jadexiaohui, aka Jade!
-- 👀 I’m interested in artificial intelligence, computer science, software engineering, entrpeneurship and healthcare
+- 👀 I’m interested in artificial intelligence, computer science, software engineering, entrepeneurship and healthcare
 - 🌱 I’m currently self-learning HTML, Java-Script and Python via FreeCodeCamp
 - 💞️ I’m looking to collaborate on beginner projects
 - 📫 How to reach me: chan0hw@gmail.com
